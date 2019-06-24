@@ -19,7 +19,7 @@ This program is exactly the same program that has been used to produce map for t
 ---
 ## Usage
 
-Program doesn't require any special parameters, just run it through Lua 5.3 interpreter
+Program doesn't require any special parameters, just run it through Lua 5.3 interpreter  
 **Windows**  
 `lua53.exe vmfgen.lua`  
 **\*nix**  
